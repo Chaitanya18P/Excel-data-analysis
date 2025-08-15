@@ -32,17 +32,14 @@ It includes data cleaning, segmentation, and multiple analysis sheets for deeper
 
 ---
 
-## 🚀 How to Use
-
-1. **Clone the repository**
-   ```bash
-   git clone https:///https://github.com/Chaitanya18P/heart-attack-analysis.git
 📈 Potential Analysis
 
 State-wise risk distribution
 Impact of lifestyle factors on heart attack risk
 Correlation between income, stress, and heart attack history
 BP & lipid levels as predictors of risk
+
+---
 
 🛠 Tools & Technologies
 
